@@ -1,0 +1,192 @@
+@charset "UTF-8";
+.menuServicesLi {
+  float: left;
+  width: 20%;
+  height: 120px;
+}
+
+.menuServicesLi a {
+  font-size: 17px !important;
+  background-size: cover;
+  font-weight: 600 !important;
+  padding-top: 50px !important;
+  margin: 10px 15px;
+  height: 150px;
+  width: 87%;
+  border: none !important;
+  text-align: center;
+}
+
+.menuServicesFirst a, .menuServicesSecond a, .menuServicesThird a, .menuServicesFourth a, .menuServicesFifth a, .menuServicesSixth a, .menuServicesSeventh a, .menuServicesEighth a, .menuServicesNinth a, .menuServicesTenth a {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+/* Ссылка на путь изображения */
+.menuServicesFirst a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-2.png);
+}
+
+.menuServicesFirst a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-2.png);
+}
+
+.menuServicesFirst a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-2.png);
+}
+
+.menuServicesSecond a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default.png);
+}
+
+.menuServicesSecond a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover.png);
+}
+
+.menuServicesSecond a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press.png);
+}
+
+.menuServicesThird a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-3.png);
+}
+
+.menuServicesThird a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-3.png);
+}
+
+.menuServicesThird a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-3.png);
+}
+
+.menuServicesFourth a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-4.png);
+}
+
+.menuServicesFourth a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-4.png);
+}
+
+.menuServicesFourth a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-4.png);
+}
+
+.menuServicesFifth a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-5.png);
+}
+
+.menuServicesFifth a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-5.png);
+}
+
+.menuServicesFifth a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-5.png);
+}
+
+.menuServicesSixth a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-6.png);
+}
+
+.menuServicesSixth a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-6.png);
+}
+
+.menuServicesSixth a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-6.png);
+}
+
+.menuServicesSeventh a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-7.png);
+}
+
+.menuServicesSeventh a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-7.png);
+}
+
+.menuServicesSeventh a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-7.png);
+}
+
+.menuServicesEighth a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-8.png);
+}
+
+.menuServicesEighth a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-8.png);
+}
+
+.menuServicesEighth a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-8.png);
+}
+
+.menuServicesNinth a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-1.png);
+}
+
+.menuServicesNinth a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-1.png);
+}
+
+.menuServicesNinth a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-1.png);
+}
+
+.menuServicesTenth a {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/default-9.png);
+}
+
+.menuServicesTenth a:hover {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/hover-9.png);
+}
+
+.menuServicesTenth a:active {
+  background-image: url(http://mprint.by/wp-content/uploads/2018/10/press-9.png);
+}
+
+.buyOnline {
+  border-radius: 5px;
+  background: linear-gradient(to bottom, #ff335c 0%, #d54800 100%);
+  width: 250px;
+  height: 40px;
+  border: none !important;
+  color: #fff;
+  font-size: 20px;
+}
+
+.buyLink {
+  margin: 0 25%;
+}
+
+.whenFontDontChange h1 {
+  font-family: Playfair Display !important;
+  color: white;
+}
+
+.whenFontDontChange div p {
+  font-family: Playfair Display !important;
+}
+
+.wpcf7 .wpcf7-list-item input[type="checkbox"] {
+  left: -2.3em !important;
+  left-top: -2px !important;
+}
+
+.chosen-container-multi .chosen-choices li.search-field input[type="text"] {
+  color: #fff !important;
+}
+
+.socioLinks {
+  margin-top: -10px;
+}
+
+.socioLinks a {
+  margin-right: 10px;
+}
+
+#menu-item-29 .cg-submenu-ddown {
+  max-width: 110% !important;
+  background: url(http://mprint.by/wp-content/uploads/2018/10/фон1.jpg) !important;
+  background-size: cover !important;
+  width: 102.7% !important;
+  margin-left: -30px;
+}
